@@ -1,7 +1,16 @@
-# CREDIT_DEFAULT_ANALYSIS
+# CREDIT DEFAULT ANALYSIS
 Performed EDA on a credit dataset to find insights and patterns on various factors that define customers who are likely to default and the ones who are likely to repay the loan on time.
 
 In this case study, we applied EDA on a real world business problem and understood the concept of risk analytics that are used in banks and financial services for various security purposes.
+
+## Tech Stack
+- Language: Python
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn
+
+## Appendix
+- Exploratory Data Analysis
+- Descriptive Analysis
+
 
 ## Problem Statement
 It is tough for loan providing comapnies to provide loans to people because of their insufficient or non-existent credit history. Taking advantage of this issue, many people can apply for the loan and get approved and then become a defaulter. The aim of this EDA was to find out the various factors among the customers that make them highly likely to default and also find out the customers and their and factors that are likely to repay the loan on time.  
